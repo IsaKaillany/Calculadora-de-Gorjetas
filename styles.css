@@ -13,7 +13,7 @@ body {
 }
 
 #container {
-    height: 450px;
+    height: 500px;
     width: 360px;
     margin: 100px auto; /*Centraliza*/
     background: #f7f7f7;
